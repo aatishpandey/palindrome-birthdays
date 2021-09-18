@@ -1,0 +1,51 @@
+:root{
+    --primary-color:#3730A3;
+    --secondary-color:#6366F1;
+}
+
+body{
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+.birthday-body{
+    margin: auto;
+    text-align: center;
+    margin-top: 7rem;
+}
+
+
+#main-heading{
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+#label-date{
+    font-size: 1.2rem;
+}
+
+#input-date{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    width: 400px;
+    height: 8vh;
+    border-radius: 5px;
+    font-size: 1.3rem;
+    outline: none;
+    border: 2px solid #1E3A8A;
+    background-color: #C7D2FE;
+
+}
+
+#btn-show{
+    width: 250px;
+    height: 8vh;
+    color: white;
+    font-size: 1.3rem;
+    border-radius: 10px;
+    background-color: #818CF8;
+    border: 2px solid #1E3A8A;
+}
+
