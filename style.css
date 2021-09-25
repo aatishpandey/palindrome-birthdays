@@ -49,3 +49,37 @@ body{
     border: 2px solid #1E3A8A;
 }
 
+.footer{
+    margin: auto;
+    /* margin-top: 30px; */
+    text-align: center;
+    bottom: 0;
+    /* max-width: 100%; */
+    font-weight: bolder;
+    position: fixed;
+    width: 100%;
+}
+
+#footer-para{
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-top: 20px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+ul{
+    padding-inline-start:0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.list-item-inline{
+    display: inline;
+    margin:auto;
+    margin-inline: 5px;
+}
+
+.footer-img{
+    width: 22px;
+}
